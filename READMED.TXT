@@ -6,4 +6,6 @@ C++ learning
 download
 france
 dodo
+mam
+finance
 
