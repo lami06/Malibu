@@ -1,11 +1,9 @@
 dudi
 php myadmin
 sql_learning
-<<<<<<< HEAD
-java
-=======
-java learning
+java 
 C++ learning
 download
 france
->>>>>>> dev
+dodo
+
